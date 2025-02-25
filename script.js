@@ -13,3 +13,4 @@ function kenobi() {
 function griveous() {
     changeTextAndImage('red', 'General Kenobi', '30px', 'black', 'Griveous.png');
 }
+
